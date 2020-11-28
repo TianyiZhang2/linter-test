@@ -1,0 +1,11 @@
+
+BasedOnStyle: LLVM
+
+---
+Language: Cpp
+
+ColumnLimit: 80 # Maximum text width: 80 characters
+IndentWidth: 4 # Indentation is 4 spaces
+UseTab: Never # No tabs
+SpaceBeforeParens: ControlStatements # Space after if, for, while ...
+---
