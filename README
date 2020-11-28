@@ -1,0 +1,4 @@
+Uses clang-format to format c code upon opening a pull request.
+
+clang-format lint action: https://github.com/DoozyX/clang-format-lint-action
+Add & Commit: https://github.com/EndBug/add-and-commit
